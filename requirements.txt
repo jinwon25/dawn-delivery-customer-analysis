@@ -1,0 +1,23 @@
+# 데이터 처리
+pandas
+numpy
+
+# 통계
+scipy
+statsmodels
+
+# 시각화
+matplotlib
+seaborn
+squarify
+
+# 모델링
+scikit-learn
+xgboost
+lightgbm
+
+# 연관 규칙 (Apriori)
+mlxtend
+
+# 노트북
+jupyter

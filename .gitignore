@@ -1,0 +1,38 @@
+# 데이터 (라이선스 + 100MB 제한)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/README.md
+
+# 부트캠프 제공 과제 가이드 (배포 권한 없음)
+*과제가이드*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 로그·임시
+*.log
+*.tmp
+.cache/
+
+# 자격증명
+.env
+.env.local
+*.key
+secrets.*
