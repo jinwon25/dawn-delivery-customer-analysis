@@ -56,7 +56,7 @@
 | 평균 Frequency | 57.01회 |
 | 평균 Monetary | 4,388,287원 |
 
-> 데이터는 부트캠프 제공 자료로 라이선스 사유로 본 저장소에는 포함하지 않습니다. 구조와 재현 방법은 [`data/README.md`](./data/README.md) 참고.
+> ⚠️ 데이터는 부트캠프 제공 자료로 라이선스 사유로 본 저장소에는 포함하지 않습니다. 구조와 재현 방법은 [`data/README.md`](./data/README.md) 참고.
 
 <br>
 
@@ -232,5 +232,5 @@ jupyter notebook
 ---
 
 **작성자** · 최진원 (munjwc25@gmail.com) · 2026  
-**소속** · 포스코 청년 AI·Big Data 아카데미 32기 — C반 (5인 팀)  
+**팀** · 포스코 청년 AI·Big Data 아카데미 32기 — C반 (5인 팀)  
 **수상** · 🏆 포스코 청년 AI·Big Data 아카데미 32기 최우수상 (Big Data 부문)
