@@ -1,5 +1,7 @@
 # 새벽배송 고객 구매 패턴과 추천 전략 분석
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) [![코드 라이선스: MIT](https://img.shields.io/badge/License-MIT-3DA639)](LICENSE)
+
 3년간의 거래·고객·상품 데이터를 연결해 **어떤 고객군을 관리하고, 어떤 상품을 함께 추천할지** 탐색했습니다. RFM 세분화·장바구니 연관분석·협업 필터링을 마케팅 실행 가설로 연결한 데이터 분석 프로젝트입니다.
 
 > 포스코 청년 AI·Big Data 아카데미 32기 최우수상 — Big Data 부문, 5인 팀 프로젝트
