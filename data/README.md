@@ -14,7 +14,7 @@
 
 | 파일 | 컬럼 | 설명 |
 |---|---|---|
-| `on_orders.csv` | OrderID, idUser, OrderDate, ItemCode, Quantity, Spend | 주문 단위 거래 로그 (~75 MB) |
+| `on_orders.csv` | OrderID, idUser, OrderDate, ItemCode, Quantity, Spend | 주문 단위 거래 로그 (약 75 MB) |
 | `on_items.csv` | ItemLargeCode, ItemLargeName, ItemMiddleCode, ItemMiddleName, ItemSmallCode, ItemSmallName, ItemCode, ItemName, PriceYear, PriceMin, PriceMax | 상품 마스터 (대·중·소 분류 + 가격대) |
 | `on_users.csv` | idUser, Gender, Age, FamilyCount, MemberYN | 고객 마스터 (성별·연령·가구원수·멤버십) |
 
